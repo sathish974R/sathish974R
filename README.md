@@ -11,9 +11,9 @@
 
 ## 🌍 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathishsr974/)  
-[![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itz_satizz_23/)  
+[![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itz_satizz__23/)  
 
----
+
 
 ## 💻 Tech Stack  
 ### **Languages & Frameworks**
