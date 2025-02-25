@@ -6,8 +6,9 @@
 - 🔭 **Check out my** [**Portfolio**](https://sathishportfolio18.netlify.app/)  
 - 🌱 **Currently learning & teaching** DSA and integrating AI into my workflow  
 - ⚡ **Fun fact:** I know **Japanese!**  
-- 🌱 **Currently learning & teaching** DSA and integrating AI into my workflow  
-- ⚡ **Fun fact:** I know **Japanese!**  
+- 🌱 **Currently learning & teaching**  
+- ⚡ **Fun fact:** I know **Japanese!**
+-  
 ---
 
 ## 🌍 Connect with Me  
