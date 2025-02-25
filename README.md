@@ -2,44 +2,58 @@
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-- 🔭 Here's my **[Portfolio](https://sathishportfolio18.netlify.app/)**  
-- 🌱 I’m currently **learning and teaching DSA** while integrating AI into my workflow  
-- ⚡ Fun fact: **I know Japanese!**  
+### 🔹 About Me  
+- 🔭 **Check out my** [**Portfolio**](https://sathishportfolio18.netlify.app/)  
+- 🌱 **Currently learning & teaching** DSA and integrating AI into my workflow  
+- ⚡ **Fun fact:** I know **Japanese!**  
 
 ---
 
-## 🌍 Social Presence  
+## 🌍 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathishsr974/)  
-[![Instagram](https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itz_satizz_23/)  
+[![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itz_satizz_23/)  
 
 ---
 
-## 💻 I Code In  
+## 💻 Tech Stack  
+### **Languages & Frameworks**
 <p>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/graphql.png"/>
+</p>
+
+### **Web Development**
+<p>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
+</p>
+
+### **Databases & Cloud**
+<p>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/null/graphql.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
+</p>
+
+### **Other Technologies**
+<p>
+  <img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/>
 </p>
 
 ---
 
-## 🛠️ IDE & Tools I Use  
+## 🛠️ IDEs & Tools  
 <p>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
   <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
   <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>
   <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/>
   <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </p>
 
