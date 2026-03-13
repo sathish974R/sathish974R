@@ -3,17 +3,17 @@
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 ### 🔹 About Me  
-- 🔭 **Check out my** [**Portfolio**](https://sathishportfolio18.netlify.app/)  
+- 🔭 **Check out my** [**Portfolio**](https://sathish-portfolio.theta.app/)  
 - 🌱 **Currently learning & teaching** DSA and integrating AI into my workflow  
 - ⚡ **Fun fact:** I know **Japanese!**  
 - 🌱 **Currently learning & teaching**  
-- ⚡ **Fun fact:** I know **Japanese!**
+- 
 -  
 ---
 
 ## 🌍 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathishsr974/)  
-[![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itz_satizz__23/)  
+[![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itz.satiz_15/)  
 
 
 
